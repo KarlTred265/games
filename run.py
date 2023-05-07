@@ -3,7 +3,7 @@ from random import randint
 # Display welcome message and game rules
 print("Welcome to our battleship game!")
 print("In the battleship game you will")
-print("get first possible to see the first 5")
+print("get first possible to see the first")
 print("ships and then not see the ships on")
 print("the computer battleship template which is 5x5 grid big.")
 print("players choose their move by choosing row: A-E and col: 1-5.")
