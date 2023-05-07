@@ -1,5 +1,12 @@
 from random import randint
 
+# Display welcome message and game rules
+print("Welcome to our battleship game!")
+print("In the battleship game you will get first possible to see the first 5")
+print("ships and then not see the ships on the computer battleship template which is 5x5 grid big.")
+print("The first of you and the Computer to sink all the other player's battleships wins!")
+print()
+
 # set up game boards
 player_board = []
 computer_board = []
